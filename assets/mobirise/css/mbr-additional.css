@@ -34,11 +34,11 @@ body {
 }
 .display-5 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 4rem;
 }
 .display-7 {
   font-family: 'Montserrat', sans-serif;
@@ -70,9 +70,9 @@ body {
     line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -627,7 +627,10 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rVECcOdZ7F {
-  background-image: url("../../../assets/images/dev-benjamin-mzmqkm0fnic-unsplash.jpeg");
+  background-image: url("../../../assets/images/mbr.jpg");
+}
+.cid-rVECcOdZ7F H1 {
+  color: #efefef;
 }
 .cid-rVEEfSbbNB {
   padding-top: 75px;
@@ -838,7 +841,7 @@ section.lazy-placeholder:after {
 }
 .cid-rVEKlyP6nx {
   padding-top: 75px;
-  padding-bottom: 45px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rVEKlyP6nx .mbr-section-subtitle {
