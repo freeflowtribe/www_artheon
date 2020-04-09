@@ -1,2 +1,3 @@
 # www_artheon
-Website repo for the Artheon Project | Development
+Website repo for the Artheon Project. | Development  
+
