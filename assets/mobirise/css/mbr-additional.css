@@ -640,8 +640,8 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rVEGbVj5QX {
-  padding-top: 90px;
-  padding-bottom: 60px;
+  padding-top: 105px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-rVEGbVj5QX .mbr-section-subtitle {
@@ -650,33 +650,36 @@ section.lazy-placeholder:after {
 .cid-rVEGbVj5QX H2 {
   color: #82786e;
 }
-.cid-rVEFWyNCbJ {
+.cid-rVLwgbbVh9 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cebfaf;
+  background-color: #efefef;
 }
-.cid-rVEFWyNCbJ .line {
-  background-color: #cebfaf;
-  color: #cebfaf;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rVEFWyNCbJ .section-text {
-  padding: 2rem 0;
-  text-align: center;
+.cid-rVLwgbbVh9 .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
   color: #635a51;
 }
-.cid-rVEFWyNCbJ .inner-container {
-  margin: 0 auto;
+.cid-rVLwgbbVh9 .mbr-author-name {
+  font-weight: bold;
 }
-@media (max-width: 768px) {
-  .cid-rVEFWyNCbJ .inner-container {
-    width: 100% !important;
+.cid-rVLwgbbVh9 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rVLwgbbVh9 .mbr-figure,
+  .cid-rVLwgbbVh9 img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-rVLwgbbVh9 .media-content {
+    padding-top: 1.5rem !important;
   }
 }
 .cid-rVEEfSbbNB {
-  padding-top: 90px;
+  padding-top: 105px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -689,7 +692,7 @@ section.lazy-placeholder:after {
 }
 .cid-rVEGYK8pz0 {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rVEGYK8pz0 .mbr-section-subtitle {
@@ -713,7 +716,7 @@ section.lazy-placeholder:after {
 }
 .cid-rVEHm4Dt9q {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rVEHm4Dt9q .mbr-section-subtitle {
@@ -737,7 +740,7 @@ section.lazy-placeholder:after {
 }
 .cid-rVEHtamqbm {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rVEHtamqbm .mbr-section-subtitle {
@@ -815,7 +818,7 @@ section.lazy-placeholder:after {
 .cid-rVFBI87wZ9 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cebfaf;
+  background-color: #efefef;
 }
 .cid-rVFBI87wZ9 .line {
   background-color: #cebfaf;
@@ -862,7 +865,7 @@ section.lazy-placeholder:after {
 .cid-rVEKlyP6nx {
   padding-top: 75px;
   padding-bottom: 60px;
-  background-color: #cebfaf;
+  background-color: #efefef;
 }
 .cid-rVEKlyP6nx .mbr-section-subtitle {
   color: #635a51;
