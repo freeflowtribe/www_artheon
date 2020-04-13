@@ -481,9 +481,7 @@ a.text-black:focus {
   color: #4d4d4d !important;
 }
 .alert-success {
-  background-color: #f2f0e7;
-  font-family: 'Montserrat', sans-serif;
-  color: #635a51;
+  background-color: #70c770;
 }
 .alert-info {
   background-color: #82786e;
