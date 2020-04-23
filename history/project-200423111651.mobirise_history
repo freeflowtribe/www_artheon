@@ -79,7 +79,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 50,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -725,10 +725,6 @@
             "a.btn-white:not([href]):not([tabindex])": {
               "color": "#333"
             },
-            "#mc_embed_signup #mce-success-response": {
-              "font-family": "\"Montserrat\", sans-serif",
-              "color": "#635a51 !important"
-            },
             "@media (max-width: 768px)": {
               ".mbr-form .row": {
                 "-webkit-flex-direction": "column",
@@ -757,9 +753,7 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": false,
