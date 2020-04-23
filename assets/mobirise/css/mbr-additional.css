@@ -1357,6 +1357,12 @@ section.lazy-placeholder:after {
   border-right: .30em solid transparent;
   border-left: .30em solid transparent;
 }
+
+#mc_embed_signup #mce-success-response{
+font-family: "Montserrat",sans-serif ;
+color: #635a51 !important;
+}
+
 @media (max-width: 1023px) {
   .cid-rVWMrwaGD7.navbar-expand {
     flex-direction: column;
