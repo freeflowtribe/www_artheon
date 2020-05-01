@@ -481,9 +481,7 @@ a.text-black:focus {
   color: #4d4d4d !important;
 }
 .alert-success {
-  background-color: #f2f0e7;
-  font-family: 'Montserrat', sans-serif;
-  color: #635a51;
+  background-color: #70c770;
 }
 .alert-info {
   background-color: #82786e;
@@ -994,6 +992,21 @@ section.lazy-placeholder:after {
 }
 .cid-rVEKlyP6nx H2 {
   color: #82786e;
+}
+.cid-rXL8tunsZd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #f2f0e7, #f2f0e7);
+}
+.cid-rXL8tunsZd .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rXL8tunsZd .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rXL8tunsZd H2 {
+  color: #635a51;
 }
 .cid-rVKsBsgy6N {
   padding-top: 45px;
