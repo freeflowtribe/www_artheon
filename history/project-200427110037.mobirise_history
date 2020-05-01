@@ -79,7 +79,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 50,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
   "pages": {
