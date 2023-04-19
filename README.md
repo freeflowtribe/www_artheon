@@ -2,7 +2,7 @@
 
 ## About
 
-The official website of Artheon: A Co-Living Community for Change-Makers & Digital Nomads
+The official website of Artheon Digital Museum
 
 [https://artheon.co/](https://artheon.co/)
 
